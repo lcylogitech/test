@@ -7,3 +7,4 @@ git commit s
 git status
 git diff
 git log
+git reflog
