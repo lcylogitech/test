@@ -1,1 +1,2 @@
 mkdir learngit
+cd learngit
