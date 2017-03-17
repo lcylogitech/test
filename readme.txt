@@ -3,6 +3,6 @@ cd learngit
 git init
 vi file
 git add
-git commit
+git commit s
 git status
 git diff
